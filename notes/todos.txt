@@ -1,0 +1,20 @@
+10.12
+
+    walk_match():
+    [x] convert the search util to a module
+    [x] add some tests to util
+    [x] add some docstrings
+    
+        bonus walk_match stuff:
+        [ ] add a post-processing func to get the docs for it
+        [ ] another way to do this is grepping through the directory
+
+    other stuff:
+    [ ] what else to add to utils? some eval functions
+
+    [ ] how to make an instalable package
+
+    [ ] how to manage exports, (e.g. like fastai)
+        for intelllisense:
+            from suttutils.utils import <os, sys, ... , walk_match, >
+    

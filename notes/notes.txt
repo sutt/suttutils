@@ -1,0 +1,8 @@
+
+
+
+There was some bugs with: windows-git + wsl-vscode
+    https://github.com/microsoft/vscode-remote-release/issues/1780
+    https://code.visualstudio.com/docs/remote/wsl#_i-see-eaccess-permission-denied-error-trying-to-rename-a-folder-in-the-open-workspace
+    https://stackoverflow.com/questions/13635429/git-rename-from-index-lock-to-index-failed
+
